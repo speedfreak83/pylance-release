@@ -1,3 +1,4 @@
+[README.md](https://github.com/microsoft/pylance-release/files/9428033/README.md)
 Diagnostic Severity Rules
 =====================
 This doc details all available rules that can be customized using the `python.analysis.diagnosticSeverityOverrides` setting. If you are looking for details on other available settings, please refer back to the main [README](README.md).
